@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://art.linguist.top</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q12.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q4.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q1.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/IMG_5417.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c25.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q13.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q14.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d4.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/apl.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d099009.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c53.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d15.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/IMG_4458.jpg</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c11.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c69.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/longing.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q7.png</image:loc>
+	<image:title>q7</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p2.png</image:loc>
+	<image:title>p2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q3.png</image:loc>
+	<image:title>q3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q1.png</image:loc>
+	<image:title>q1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q4.png</image:loc>
+	<image:title>q4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q11.png</image:loc>
+	<image:title>q11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q6.png</image:loc>
+	<image:title>q6</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q9.png</image:loc>
+	<image:title>q9</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q10.png</image:loc>
+	<image:title>q10</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q8.png</image:loc>
+	<image:title>q8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/adrift.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc21.jpg</image:loc>
+	<image:title>ccc21</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc28.jpg</image:loc>
+	<image:title>ccc28</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc29.jpg</image:loc>
+	<image:title>ccc29</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc34.jpg</image:loc>
+	<image:title>ccc34</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc38.jpg</image:loc>
+	<image:title>ccc38</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc24.jpg</image:loc>
+	<image:title>ccc24</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c36.jpg</image:loc>
+	<image:title>c36</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc32.jpg</image:loc>
+	<image:title>ccc32</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc45.jpg</image:loc>
+	<image:title>ccc45</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/IMG_5417.jpg</image:loc>
+	<image:title>IMG_5417</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc3.png</image:loc>
+	<image:title>ccc3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/light.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c25.png</image:loc>
+	<image:title>c25</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q13.png</image:loc>
+	<image:title>q13</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q14.png</image:loc>
+	<image:title>q14</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/q15.png</image:loc>
+	<image:title>q15</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c95.png</image:loc>
+	<image:title>c95</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d1.png</image:loc>
+	<image:title>d1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/artworks.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d099009.png</image:loc>
+	<image:title>d099009</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/apl.png</image:loc>
+	<image:title>apl</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c82.png</image:loc>
+	<image:title>c82</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c53.png</image:loc>
+	<image:title>apl</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d4.png</image:loc>
+	<image:title>d4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c14.png</image:loc>
+	<image:title>c14</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/pride2022.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/aooo.png</image:loc>
+	<image:title>aooo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ajk.png</image:loc>
+	<image:title>ajk</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/aggg.png</image:loc>
+	<image:title>aggg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/agggggg.png</image:loc>
+	<image:title>agggggg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/apl.png</image:loc>
+	<image:title>apl</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/asdf.png</image:loc>
+	<image:title>asdf</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/boutique.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c81.png</image:loc>
+	<image:title>c81</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c83.png</image:loc>
+	<image:title>c83</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c78.png</image:loc>
+	<image:title>c78</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c77.png</image:loc>
+	<image:title>c77</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c79.png</image:loc>
+	<image:title>c79</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c.png</image:loc>
+	<image:title>c</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c70.png</image:loc>
+	<image:title>c70</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c50.png</image:loc>
+	<image:title>c50</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c67.png</image:loc>
+	<image:title>c67</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c71.png</image:loc>
+	<image:title>c71</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c30.png</image:loc>
+	<image:title>c30</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c29.png</image:loc>
+	<image:title>c29</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c27.png</image:loc>
+	<image:title>c27</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/walk-along-river.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d8.png</image:loc>
+	<image:title>d8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d3.png</image:loc>
+	<image:title>d3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c86.png</image:loc>
+	<image:title>c86</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d15.png</image:loc>
+	<image:title>d15</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d2.png</image:loc>
+	<image:title>d2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c90.png</image:loc>
+	<image:title>c90</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c99.png</image:loc>
+	<image:title>c99</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c95.png</image:loc>
+	<image:title>c95</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c94.png</image:loc>
+	<image:title>c94</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/ccc6.png</image:loc>
+	<image:title>ccc6</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d9.png</image:loc>
+	<image:title>d9</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d16.png</image:loc>
+	<image:title>d16</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c53.png</image:loc>
+	<image:title>c53</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c42.png</image:loc>
+	<image:title>c42</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/concept-2022.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d24.png</image:loc>
+	<image:title>d24</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/d19.png</image:loc>
+	<image:title>d19</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c33.png</image:loc>
+	<image:title>c33</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c24.png</image:loc>
+	<image:title>c24</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/pet2022.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c10.png</image:loc>
+	<image:title>c10</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c13.png</image:loc>
+	<image:title>c13</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c12.png</image:loc>
+	<image:title>c12</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c11.png</image:loc>
+	<image:title>c11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c9.png</image:loc>
+	<image:title>c9</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c8.png</image:loc>
+	<image:title>c8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c7.png</image:loc>
+	<image:title>c7</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c5.png</image:loc>
+	<image:title>c5</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/c4].png</image:loc>
+	<image:title>c4]</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/archive.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p24.png</image:loc>
+	<image:title>p24</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p6.png</image:loc>
+	<image:title>p6</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p42.png</image:loc>
+	<image:title>p42</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/conflict2021.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p18.png</image:loc>
+	<image:title>p18</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p31.png</image:loc>
+	<image:title>p31</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p30.png</image:loc>
+	<image:title>p30</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p29.png</image:loc>
+	<image:title>p29</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p27.png</image:loc>
+	<image:title>p27</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p25.png</image:loc>
+	<image:title>p25</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p22.png</image:loc>
+	<image:title>p22</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p21.png</image:loc>
+	<image:title>p21</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p20.png</image:loc>
+	<image:title>p20</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p23.png</image:loc>
+	<image:title>p23</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/waiting.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p1.png</image:loc>
+	<image:title>p1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p5.png</image:loc>
+	<image:title>p5</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p8.png</image:loc>
+	<image:title>p8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p12.png</image:loc>
+	<image:title>p12</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p9.png</image:loc>
+	<image:title>p9</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p11.png</image:loc>
+	<image:title>p11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p13.png</image:loc>
+	<image:title>p13</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p10.png</image:loc>
+	<image:title>p10</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/id-crisis-2021.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p40.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p42.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p41.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p45.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p48.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p44.png</image:loc>
+	<image:title>p44</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p43.png</image:loc>
+	<image:title>p43</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p14.png</image:loc>
+	<image:title>p14</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/about.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/3305D9FC-DD18-4CA8-A931-87FD6E1D4C37_1_201_a.jpeg</image:loc>
+	<image:title>3305D9FC DD18-4CA8-A931-87FD6E1D4C37_1_201_a.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/p46.png</image:loc>
+	<image:title>p46</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://art.linguist.top/previous-years.html</loc>
+	<lastmod>2022-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://art.linguist.top/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
